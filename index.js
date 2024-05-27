@@ -1,4 +1,4 @@
-alert("Made By Mahendra Singh");
+alert("Made By Satyajit Patnaik");
 
 function play() {
     var randomNumber1 = Math.floor(Math.random() *6 ) + 1;
